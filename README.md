@@ -14,3 +14,5 @@ Image 1: Wireshark
 - I also experimented with using the command line with root privliges to identify user log attempts. *See Image 2* Identifying login attempts will assist with suspicious login attempts will help in preventing attacks on a network from an unathorized IP address or from a unathorized user. This action will greatly assist in preventing loss of cyber assets such as valuable organizational data.
 
 - ![image](https://github.com/user-attachments/assets/bf833609-d1fe-4a96-b44c-cb096546cbf8)
+
+Image 2: Identifying User Log Files
